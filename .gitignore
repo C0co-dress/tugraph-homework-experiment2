@@ -1,0 +1,22 @@
+# 实验报告（不上传）
+实验二_*.docx
+林源卿*安全通论*.docx
+*实验报告*.docx
+
+# 临时文件
+_gen_report.py
+_report1_text.txt
+__pycache__/
+*.pyc
+
+# PPT（老师课件，不上传）
+*.pptx
+
+# 截图
+screenshots/
+*.png
+*.jpg
+
+# 系统文件
+.DS_Store
+Thumbs.db
