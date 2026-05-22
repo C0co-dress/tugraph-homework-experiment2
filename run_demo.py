@@ -26,7 +26,7 @@ from neo4j import GraphDatabase
 URI = os.environ.get("TUGRAPH_URI", "bolt://localhost:7687")
 AUTH = (os.environ.get("TUGRAPH_USER", "admin"),
         os.environ.get("TUGRAPH_PASSWORD", "73@TuGraph"))
-DATABASE = os.environ.get("TUGRAPH_DATABASE", "default")
+DATABASE = os.environ.get("TUGRAPH_DATABASE", "Movie")
 
 # Node2Vec 参数
 WALK_LEN = 10

@@ -1,0 +1,9 @@
+Node2Vec 训练摘要
+节点数: 4225
+边数: 7157
+游走条数: 100
+嵌入节点数: 117
+嵌入维度: 64
+
+参数: p=1.0, q=1.0, walk_len=10, num_walks=5, max_starts=20
+训练: epochs=3, lr=0.05, neg_samples=5, window=3
